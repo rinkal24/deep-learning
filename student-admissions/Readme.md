@@ -1,4 +1,4 @@
-#Analyzing student admissions data of UCLA students.
+# Analyzing student admissions data of UCLA students.
 
 Implementation of training neural network including:
 - One-hot encoding the data
